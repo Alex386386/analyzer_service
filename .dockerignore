@@ -1,0 +1,12 @@
+.github/
+.gitlab/
+venv/
+.venv/
+infra/
+README.md
+.idea/
+__pycache__/
+.git/
+.gitignore
+.dockerignore
+backend_tests/
